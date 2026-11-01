@@ -1,3 +1,5 @@
+<img src="https://harrywinter06-code.github.io/harry-winter.jpg" alt="Harry Winter" title="Harry Winter" width="120" align="right">
+
 ## Harry Winter
 
 **UCL Information Management for Business · Python · SQL · Data Analysis · Quant systems & AI tooling · London**
