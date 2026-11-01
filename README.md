@@ -18,8 +18,6 @@ I'm **Harry Winter** (Harry P. Winter), a penultimate-year Information Managemen
 
 **[gina-starter-pack](https://github.com/harrywinter06-code/gina-starter-pack)**: Polymarket negRisk basket-arbitrage strategy packaged for Ask Gina, with a three-layer pipeline and tests.
 
-**internship-hunter** *(private)*: Automated internship application pipeline. Discovers roles from Remotive, Greenhouse/Lever ATS boards, Reed.co.uk and funding news feeds; generates tailored cover letters and cold emails using Claude with prompt caching; manages an email queue with Hunter.io lookup and Gmail delivery through a Streamlit dashboard.
-
 ---
 
 ### Stack
