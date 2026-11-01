@@ -4,7 +4,7 @@
 
 I'm **Harry Winter** (Harry P. Winter), a penultimate-year Information Management for Business student at University College London (predicted First). I build data engineering, algorithmic trading and AI tooling projects alongside my degree. Open to internships and placements in London.
 
-🔗 **[LinkedIn: linkedin.com/in/harry-p-winter](https://www.linkedin.com/in/harry-p-winter)** · ✉️ harrywinter.uk@gmail.com
+🔗 **[LinkedIn: linkedin.com/in/harry-p-winter](https://www.linkedin.com/in/harry-p-winter)** · 🌐 [harrywinter06-code.github.io](https://harrywinter06-code.github.io) · ✉️ harrywinter.uk@gmail.com
 
 ---
 
