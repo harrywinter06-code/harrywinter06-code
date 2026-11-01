@@ -4,7 +4,7 @@
 
 **UCL Information Management for Business · Python · SQL · Data Analysis · Quant systems & AI tooling · London**
 
-I'm **Harry Winter** (Harry P. Winter), a penultimate-year Information Management for Business student at University College London (predicted First). I build data engineering, algorithmic trading and AI tooling projects alongside my degree. Open to internships and placements in London.
+I'm **Harry Winter** (Harry P. Winter), a second-year Information Management for Business student at University College London (UCL), on track for a First. I build data engineering, algorithmic trading and AI tooling projects alongside my degree. Open to internships and placements in London.
 
 🔗 **[LinkedIn: linkedin.com/in/harry-p-winter](https://www.linkedin.com/in/harry-p-winter)** · 🌐 [harrywinter06-code.github.io](https://harrywinter06-code.github.io) · ✉️ harrywinter.uk@gmail.com
 
@@ -19,6 +19,13 @@ I'm **Harry Winter** (Harry P. Winter), a penultimate-year Information Managemen
 **[polymarket-edge](https://github.com/harrywinter06-code/polymarket-edge)**: Depth- and cost-aware no-arbitrage scanner for Polymarket negRisk events, plus a Hyperliquid funding-capture backtest.
 
 **[gina-starter-pack](https://github.com/harrywinter06-code/gina-starter-pack)**: Polymarket negRisk basket-arbitrage strategy packaged for Ask Gina, with a three-layer pipeline and tests.
+
+---
+
+### Writing
+
+- [Most of the Polymarket arbitrage I found was a trap](https://harrywinter06-code.github.io/writing/polymarket-arbitrage-traps/)
+- [My 10% funding-rate strategy loses money after trading costs](https://harrywinter06-code.github.io/writing/funding-rate-strategy-trading-costs/)
 
 ---
 
